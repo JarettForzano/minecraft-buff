@@ -3,8 +3,8 @@
 ### Autoclicker for minecraft
 
 **Download**
-Download ahk ```https://www.autohotkey.com/```
-Clone repository ```git clone git@github.com:Zaikoa/minecraft-buff.git```
+1. Download ahk ```https://www.autohotkey.com/```
+2. Clone repository ```git clone git@github.com:Zaikoa/minecraft-buff.git```
 
 **Usage**
 1. Open repository
